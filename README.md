@@ -1,5 +1,7 @@
 自用项目，简单记录设置，防止忘掉
 
+ARGO_DOMAIN是套woker后的自定义域名
+
 ARGO_DOMAIN/CF_IP/NEZHA_KEY/NEZHA_SERVER/PSWD/SUB_NAME/SUB_URL/UUID/VPATH
 
 变量添加有2种方式
